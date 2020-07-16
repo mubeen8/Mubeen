@@ -79,7 +79,7 @@ os.system("clear")
 print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
 print  """\x1b[0;31m [¤] \x1b[0;31mWELCOME TO TECHNICAL MUBEEN\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : +923468443909\x1b[1;96m  
 \033[1;93m [¤] \x1b[0;31m   [¤] \x1b[0;31mFACEBOOK : Mubeen khan\x1b[1;96m  
-\033[1;93m [¤] \x1b[0;31mCREDIT GOES TO AFTAB\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : TECHNICAL MUBEEN\x1b[0;31m"""
+\033[1;93m [¤] \x1b[0;31mCREDIT GOES TO MUBEEN\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : TECHNICAL MUBEEN\x1b[0;31m"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
 
 CorrectUsername = "TECHNICAL"
